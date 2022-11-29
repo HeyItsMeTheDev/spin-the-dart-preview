@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.16c7db80.css",
-    "main.js": "/static/js/main.3640d33d.js",
+    "main.css": "/static/css/main.ee37d231.css",
+    "main.js": "/static/js/main.dddd7c2e.js",
     "static/js/314.726d286b.chunk.js": "/static/js/314.726d286b.chunk.js",
     "static/js/608.8d0f03b9.chunk.js": "/static/js/608.8d0f03b9.chunk.js",
-    "static/js/333.a604756f.chunk.js": "/static/js/333.a604756f.chunk.js",
+    "static/js/218.731f1726.chunk.js": "/static/js/218.731f1726.chunk.js",
     "static/media/ashtray.png": "/static/media/ashtray.5089bffbcd738f65f1b6.png",
     "static/media/viagra.png": "/static/media/viagra.6ed9d45688ea0372eb43.png",
     "static/media/happy-shop.ttf": "/static/media/happy-shop.e6b94753119d5e21d68b.ttf",
@@ -14,7 +14,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.16c7db80.css",
-    "static/js/main.3640d33d.js"
+    "static/css/main.ee37d231.css",
+    "static/js/main.dddd7c2e.js"
   ]
 }
