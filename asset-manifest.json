@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b80845c.css",
-    "main.js": "/static/js/main.0b88664d.js",
+    "main.css": "/static/css/main.c86d49d1.css",
+    "main.js": "/static/js/main.3d4df697.js",
     "static/js/314.726d286b.chunk.js": "/static/js/314.726d286b.chunk.js",
     "static/js/608.8d0f03b9.chunk.js": "/static/js/608.8d0f03b9.chunk.js",
     "static/js/218.731f1726.chunk.js": "/static/js/218.731f1726.chunk.js",
     "static/media/ashtray.png": "/static/media/ashtray.5089bffbcd738f65f1b6.png",
+    "static/media/the-dev-connect.jpg": "/static/media/the-dev-connect.c9383c8e7f8912f15168.jpg",
     "static/media/happy-shop.ttf": "/static/media/happy-shop.e6b94753119d5e21d68b.ttf",
     "static/media/fake-receipt.ttf": "/static/media/fake-receipt.b3ebf5607fd00940483a.ttf",
     "static/media/cig.png": "/static/media/cig.37f9e1c6a710143a45d2.png",
@@ -14,7 +15,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.5b80845c.css",
-    "static/js/main.0b88664d.js"
+    "static/css/main.c86d49d1.css",
+    "static/js/main.3d4df697.js"
   ]
 }
