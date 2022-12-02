@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.a454f7b7.css",
-    "main.js": "/static/js/main.89c5a3d3.js",
+    "main.css": "/static/css/main.63ac0ebf.css",
+    "main.js": "/static/js/main.ab4139b3.js",
     "static/js/314.726d286b.chunk.js": "/static/js/314.726d286b.chunk.js",
     "static/js/608.8d0f03b9.chunk.js": "/static/js/608.8d0f03b9.chunk.js",
     "static/js/218.731f1726.chunk.js": "/static/js/218.731f1726.chunk.js",
+    "static/media/confetti.gif": "/static/media/confetti.5bc61bd464f3af84091e.gif",
     "static/media/ashtray.png": "/static/media/ashtray.5089bffbcd738f65f1b6.png",
+    "static/media/cigpack.png": "/static/media/cigpack.69a82736e1503e7fb020.png",
+    "static/media/the-dev.png": "/static/media/the-dev.54c967955e4b8c67e6ba.png",
     "static/media/the-dev-connect.jpg": "/static/media/the-dev-connect.c9383c8e7f8912f15168.jpg",
     "static/media/happy-shop.ttf": "/static/media/happy-shop.e6b94753119d5e21d68b.ttf",
     "static/media/fake-receipt.ttf": "/static/media/fake-receipt.b3ebf5607fd00940483a.ttf",
     "static/media/cig.png": "/static/media/cig.37f9e1c6a710143a45d2.png",
     "static/media/digital.ttf": "/static/media/digital.d60dc6e509634f05c9b3.ttf",
+    "static/media/gold-bg.png": "/static/media/gold-bg.5b7ba9bbc07715598eb3.png",
     "static/media/background.png": "/static/media/background.3508ba54a96f8ab700cd.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.a454f7b7.css",
-    "static/js/main.89c5a3d3.js"
+    "static/css/main.63ac0ebf.css",
+    "static/js/main.ab4139b3.js"
   ]
 }
