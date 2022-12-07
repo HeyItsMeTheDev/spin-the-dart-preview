@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c045cd12.css",
-    "main.js": "/static/js/main.8cc3aa0b.js",
+    "main.css": "/static/css/main.683957ad.css",
+    "main.js": "/static/js/main.6b21ebdf.js",
     "static/js/314.726d286b.chunk.js": "/static/js/314.726d286b.chunk.js",
     "static/js/608.8d0f03b9.chunk.js": "/static/js/608.8d0f03b9.chunk.js",
     "static/js/218.731f1726.chunk.js": "/static/js/218.731f1726.chunk.js",
+    "static/media/loser-bg.gif": "/static/media/loser-bg.8ceb76d5169da415205c.gif",
+    "static/media/cigpack.png": "/static/media/cigpack.b355a94446c532b464c3.png",
     "static/media/confetti.gif": "/static/media/confetti.5bc61bd464f3af84091e.gif",
     "static/media/ashtray.png": "/static/media/ashtray.5089bffbcd738f65f1b6.png",
-    "static/media/cigpack.png": "/static/media/cigpack.69a82736e1503e7fb020.png",
     "static/media/the-dev-connect.jpg": "/static/media/the-dev-connect.c9383c8e7f8912f15168.jpg",
     "static/media/flick-1.png": "/static/media/flick-1.ffb67b0d41f3ba3f2c1b.png",
     "static/media/flick-2.png": "/static/media/flick-2.836a12b51d8ce291134a.png",
@@ -20,7 +21,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.c045cd12.css",
-    "static/js/main.8cc3aa0b.js"
+    "static/css/main.683957ad.css",
+    "static/js/main.6b21ebdf.js"
   ]
 }
