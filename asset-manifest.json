@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.683957ad.css",
-    "main.js": "/static/js/main.6b21ebdf.js",
+    "main.css": "/static/css/main.4f027fd5.css",
+    "main.js": "/static/js/main.fd0c5b2f.js",
     "static/js/314.726d286b.chunk.js": "/static/js/314.726d286b.chunk.js",
     "static/js/608.8d0f03b9.chunk.js": "/static/js/608.8d0f03b9.chunk.js",
     "static/js/218.731f1726.chunk.js": "/static/js/218.731f1726.chunk.js",
@@ -13,15 +13,17 @@
     "static/media/flick-1.png": "/static/media/flick-1.ffb67b0d41f3ba3f2c1b.png",
     "static/media/flick-2.png": "/static/media/flick-2.836a12b51d8ce291134a.png",
     "static/media/happy-shop.ttf": "/static/media/happy-shop.e6b94753119d5e21d68b.ttf",
+    "static/media/baskervville.ttf": "/static/media/baskervville.10997c3801cafead0fe2.ttf",
     "static/media/fake-receipt.ttf": "/static/media/fake-receipt.b3ebf5607fd00940483a.ttf",
-    "static/media/cig.png": "/static/media/cig.37f9e1c6a710143a45d2.png",
+    "static/media/cig.png": "/static/media/cig.da56c6576b94d268af8f.png",
+    "static/media/buy-button.png": "/static/media/buy-button.ff7767ef339d6a26c77c.png",
     "static/media/digital.ttf": "/static/media/digital.d60dc6e509634f05c9b3.ttf",
     "static/media/gold-bg.png": "/static/media/gold-bg.5b7ba9bbc07715598eb3.png",
     "static/media/background.png": "/static/media/background.3508ba54a96f8ab700cd.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.683957ad.css",
-    "static/js/main.6b21ebdf.js"
+    "static/css/main.4f027fd5.css",
+    "static/js/main.fd0c5b2f.js"
   ]
 }
