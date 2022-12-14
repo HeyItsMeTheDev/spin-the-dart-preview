@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.73c74822.css",
-    "main.js": "/static/js/main.4176fb2a.js",
+    "main.css": "/static/css/main.efb480e8.css",
+    "main.js": "/static/js/main.65f6ea60.js",
     "static/js/314.726d286b.chunk.js": "/static/js/314.726d286b.chunk.js",
     "static/js/608.8d0f03b9.chunk.js": "/static/js/608.8d0f03b9.chunk.js",
     "static/js/218.731f1726.chunk.js": "/static/js/218.731f1726.chunk.js",
@@ -27,7 +27,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.73c74822.css",
-    "static/js/main.4176fb2a.js"
+    "static/css/main.efb480e8.css",
+    "static/js/main.65f6ea60.js"
   ]
 }
