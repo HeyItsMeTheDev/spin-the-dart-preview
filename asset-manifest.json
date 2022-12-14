@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7ce5ef7.css",
-    "main.js": "/static/js/main.f7bfd2a7.js",
+    "main.css": "/static/css/main.73c74822.css",
+    "main.js": "/static/js/main.4176fb2a.js",
     "static/js/314.726d286b.chunk.js": "/static/js/314.726d286b.chunk.js",
     "static/js/608.8d0f03b9.chunk.js": "/static/js/608.8d0f03b9.chunk.js",
     "static/js/218.731f1726.chunk.js": "/static/js/218.731f1726.chunk.js",
@@ -13,6 +13,7 @@
     "static/media/wood-bg.png": "/static/media/wood-bg.916b6e6054992e1165ae.png",
     "static/media/ashtray.png": "/static/media/ashtray.5089bffbcd738f65f1b6.png",
     "static/media/gold-bg.svg": "/static/media/gold-bg.252ebea8746161128006.svg",
+    "static/media/talking.gif": "/static/media/talking.a5047061d8dc23145429.gif",
     "static/media/the-dev-connect.jpg": "/static/media/the-dev-connect.c9383c8e7f8912f15168.jpg",
     "static/media/flick-1.png": "/static/media/flick-1.ffb67b0d41f3ba3f2c1b.png",
     "static/media/flick-2.png": "/static/media/flick-2.836a12b51d8ce291134a.png",
@@ -26,7 +27,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.c7ce5ef7.css",
-    "static/js/main.f7bfd2a7.js"
+    "static/css/main.73c74822.css",
+    "static/js/main.4176fb2a.js"
   ]
 }
