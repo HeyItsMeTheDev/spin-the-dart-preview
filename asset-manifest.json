@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.1dd97f16.css",
-    "main.js": "/static/js/main.d045c72f.js",
+    "main.css": "/static/css/main.c7ce5ef7.css",
+    "main.js": "/static/js/main.522c7791.js",
     "static/js/314.726d286b.chunk.js": "/static/js/314.726d286b.chunk.js",
     "static/js/608.8d0f03b9.chunk.js": "/static/js/608.8d0f03b9.chunk.js",
     "static/js/218.731f1726.chunk.js": "/static/js/218.731f1726.chunk.js",
+    "static/media/background.mp3": "/static/media/background.ee84a01f2e882c5eb514.mp3",
     "static/media/loser-bg.gif": "/static/media/loser-bg.8ceb76d5169da415205c.gif",
     "static/media/connect-background.png": "/static/media/connect-background.4f69f0ac69f0382e3b40.png",
     "static/media/cigpack.png": "/static/media/cigpack.b355a94446c532b464c3.png",
     "static/media/confetti.gif": "/static/media/confetti.5bc61bd464f3af84091e.gif",
+    "static/media/wood-bg.png": "/static/media/wood-bg.916b6e6054992e1165ae.png",
     "static/media/ashtray.png": "/static/media/ashtray.5089bffbcd738f65f1b6.png",
-    "static/media/wallet.png": "/static/media/wallet.7e7450befb98e874e04f.png",
+    "static/media/gold-bg.svg": "/static/media/gold-bg.252ebea8746161128006.svg",
     "static/media/the-dev-connect.jpg": "/static/media/the-dev-connect.c9383c8e7f8912f15168.jpg",
     "static/media/flick-1.png": "/static/media/flick-1.ffb67b0d41f3ba3f2c1b.png",
     "static/media/flick-2.png": "/static/media/flick-2.836a12b51d8ce291134a.png",
     "static/media/happy-shop.ttf": "/static/media/happy-shop.e6b94753119d5e21d68b.ttf",
     "static/media/baskervville.ttf": "/static/media/baskervville.10997c3801cafead0fe2.ttf",
     "static/media/fake-receipt.ttf": "/static/media/fake-receipt.b3ebf5607fd00940483a.ttf",
-    "static/media/cig.png": "/static/media/cig.da56c6576b94d268af8f.png",
+    "static/media/cig.png": "/static/media/cig.d7eb1dfb0bcc09b8fd5a.png",
     "static/media/buy-button.png": "/static/media/buy-button.ff7767ef339d6a26c77c.png",
     "static/media/digital.ttf": "/static/media/digital.d60dc6e509634f05c9b3.ttf",
-    "static/media/gold-bg.png": "/static/media/gold-bg.5b7ba9bbc07715598eb3.png",
-    "static/media/background.png": "/static/media/background.3508ba54a96f8ab700cd.png",
+    "static/media/logo.svg": "/static/media/logo.8a0fe9d0ae7de5a8ad73e6fe9aaba2df.svg",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.1dd97f16.css",
-    "static/js/main.d045c72f.js"
+    "static/css/main.c7ce5ef7.css",
+    "static/js/main.522c7791.js"
   ]
 }
