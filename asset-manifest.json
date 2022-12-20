@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.efb480e8.css",
-    "main.js": "/static/js/main.c92092a3.js",
+    "main.css": "/static/css/main.b4373a2d.css",
+    "main.js": "/static/js/main.ede7beab.js",
     "static/js/314.726d286b.chunk.js": "/static/js/314.726d286b.chunk.js",
     "static/js/608.8d0f03b9.chunk.js": "/static/js/608.8d0f03b9.chunk.js",
-    "static/js/218.6a00eada.chunk.js": "/static/js/218.6a00eada.chunk.js",
+    "static/js/218.80829da2.chunk.js": "/static/js/218.80829da2.chunk.js",
     "static/media/background.mp3": "/static/media/background.ee84a01f2e882c5eb514.mp3",
     "static/media/loser-bg.gif": "/static/media/loser-bg.8ceb76d5169da415205c.gif",
     "static/media/connect-background.png": "/static/media/connect-background.4f69f0ac69f0382e3b40.png",
-    "static/media/cigpack.png": "/static/media/cigpack.b355a94446c532b464c3.png",
+    "static/media/cigpack.png": "/static/media/cigpack.ade3c27b01b232153b79.png",
     "static/media/confetti.gif": "/static/media/confetti.5bc61bd464f3af84091e.gif",
     "static/media/wood-bg.png": "/static/media/wood-bg.916b6e6054992e1165ae.png",
     "static/media/ashtray.png": "/static/media/ashtray.5089bffbcd738f65f1b6.png",
-    "static/media/gold-bg.svg": "/static/media/gold-bg.252ebea8746161128006.svg",
+    "static/media/gold-bg.svg": "/static/media/gold-bg.5a6e21d18931700c023c.svg",
     "static/media/talking.gif": "/static/media/talking.a5047061d8dc23145429.gif",
     "static/media/the-dev-connect.jpg": "/static/media/the-dev-connect.c9383c8e7f8912f15168.jpg",
     "static/media/flick-1.png": "/static/media/flick-1.ffb67b0d41f3ba3f2c1b.png",
@@ -27,7 +27,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.efb480e8.css",
-    "static/js/main.c92092a3.js"
+    "static/css/main.b4373a2d.css",
+    "static/js/main.ede7beab.js"
   ]
 }
